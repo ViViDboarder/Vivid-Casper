@@ -1321,6 +1321,7 @@ Usage (In Ghost editor):
     margin: 0;
     color: var(--midgrey);
     line-height: 1.3em;
+    max-width: 640px;
 }
 
 .post-full-footer-right {
